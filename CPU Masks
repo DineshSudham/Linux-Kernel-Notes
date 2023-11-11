@@ -1,0 +1,1 @@
+The Linux Kernel uses CPU masks to record system CPU information.CPU masks provides the bitmap that represents the collection of system CPU's.
